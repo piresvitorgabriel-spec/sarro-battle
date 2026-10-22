@@ -14,7 +14,9 @@ import { Steps } from "@/components/steps";
 export default function Home() {
   return (
     <>
+    <div></div>
       <Header />
+
       <main>
         <Hero />
         <Agenda />
